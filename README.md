@@ -1,2 +1,2 @@
 # my-project
-this is my rpoject
+this is my project
