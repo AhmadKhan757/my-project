@@ -1,2 +1,2 @@
 # my-project
-This is my project.hi to you
+This is my project.
